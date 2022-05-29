@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Twlightzone
+- 👋 Hi, I’m Twlight zone (Armaan)
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on Games
-- 📫 How to reach me SUBSCRIBE TO MY YOUTUBE CHANNEL
+- 🌱 I’m currently learning TSX, JSX, JS
+- 💞️ I’m looking to collaborate on nothing right now :/
+- 📫 How to reach me Twlight_zone#7037 (discord ID)
 
 <!---
 Twlightzone/Twlightzone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
