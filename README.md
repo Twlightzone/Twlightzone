@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Twlight zone (Armaan)
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on nothing right now :/
-- 📫 How to reach me Twlight_zone#7037 (discord ID)
+Didn't care + Didn't ask Just see the Repos no one cares about this.
 
 <!---
 Twlightzone/Twlightzone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
