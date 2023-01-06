@@ -4,3 +4,4 @@ Me:I'll add stuff here
 Friends:yep
 
 (transcript of my talk with my friend about readme.md)
+
