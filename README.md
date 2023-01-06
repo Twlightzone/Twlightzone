@@ -1,6 +1,6 @@
-# Didn't care + Didn't ask Just see the Repos no one cares about this.
+Me:I should probably do something about my about me.
+Friends:bah no one care (for now) when they will-
+Me:I'll add stuff here
+Friends:yep
 
-<!---
-Twlightzone/Twlightzone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+(transcript of my talk with my friend about readme.md)
